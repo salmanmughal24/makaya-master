@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527164060563",
+    "project_id": "makaya0",
+    "storage_bucket": "makaya0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527164060563:android:c9a0c34fae849faaa0ae66",
+        "android_client_info": {
+          "package_name": "com.example.makaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527164060563-961nqfab46rng0q0k144iqkqc3ikjdib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makaya",
+            "certificate_hash": "7fb30492deaf0fd3102162f21de80974f393ed37"
+          }
+        },
+        {
+          "client_id": "527164060563-7cbv7ap2juu5niql8jd08uvnas91ass4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkToG0yRwMEQsiy-uoz_ro_c6Pke__yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527164060563-7cbv7ap2juu5niql8jd08uvnas91ass4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
